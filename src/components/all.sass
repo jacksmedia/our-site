@@ -5,7 +5,7 @@
 *
   font-family: 'Montserrat', sans-serif
 
-h1, h2, h3, h4, h5, h6, .btn
+h1, h2, h3, h4, h5, h6, .btn, .navbar-item
   font-family: 'Balthazar', serif
 
 // Config vars
@@ -15,8 +15,8 @@ $jacks-red-invert: #fff
 
 $primary: $jacks-red
 $primary-invert: $jacks-red-invert
-$body-color: #333
-$black: #2b2523
+$body-color: #224
+$black: #222222
 
 .navbar .navbar-menu
   box-shadow:none !important
@@ -78,6 +78,8 @@ $black: #2b2523
 .margin-top-0
   margin-top: 0 !important
 
+.navbar-item
+  font-size: 125%
 .navbar-item .icon
   color: $primary
 // Override for use of svg's from https://simpleicons.org/
@@ -87,10 +89,14 @@ $black: #2b2523
   fill: currentColor
 .navbar-brand .navbar-item.logo
   padding: 0 1rem
+// very bespoke stuff begins
 *.footer
   padding: 3rem 0rem 0rem
   background: -webkit-linear-gradient(270deg, rgba(221,60,0,0.8), rgba(45,0,0,0) 66.6%),-webkit-linear-gradient(0deg, rgba(0,153,199,0.8), rgba(0,45,0,0) 66.6%),-webkit-linear-gradient(90deg, rgba(5,0,255,0.8), rgba(0,0,45,0) 66.6%)
   background: linear-gradient(270deg, rgba(221,60,0,0.8), rgba(45,0,0,0) 66.6%),linear-gradient(0deg, rgba(0,153,199,0.8), rgba(0,45,0,0) 66.6%),linear-gradient(90deg, rgba(5,0,255,0.8), rgba(0,0,45,0) 66.6%)
+
+.special-indigo-glimmer:hover
+  fill: '#10f'
 
 //Menu overrides
 $menu-item-color: $white-ter
