@@ -43,19 +43,15 @@ intro:
   heading: What We're Offering
   description: Jacks Media builds apps that evade app stores, using open source tech.
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: Or You Can Hire Us To Build Your Brand's PWA
+  description: No harm in that.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: Top 100 crypto prices
+    image: /img/top100.png
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: A big database of Stardew Valley stuff
+    image: /img/sdd.png
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: Community info resource
+    image: /img/mva.png
 ---
