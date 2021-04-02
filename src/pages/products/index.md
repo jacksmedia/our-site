@@ -1,14 +1,13 @@
 ---
-templateKey: 'product-page'
+heading: Get Your Brand On Their Phones
 path: /products
-title: Our Coffee
+templateKey: product-page
+title: Websites, Downloaded
 image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+description: Kaldi is the ultimate spot for coffee lovers who want to learn
+  about their java’s origin and support the farmers that grew it. We take coffee
+  production, roasting and brewing seriously and we’re glad to pass that
+  knowledge to anyone.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -61,41 +60,39 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+  - author: Lydia, Blackwood Housekeeping
+    quote: Jacks gave us a great site at a great value, amazing work!
+  - author: Raja Afrika
+    quote: (Jacks) was able to create a proof of concept, interactive website, from
+      scratch. I would recommend Jacks to anyone that needed web design, web
+      programming or Marijuana Software API help.
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
-  description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+  heading: Popular Products
+  description: Need expert help building your dream?
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Rebuild your web presence and make it easy for customers to
+        download your brand.
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
+        - Initial Consultation
+        - Unlimited Revisions
+        - Custom PWA
+      plan: New Site (PWA)
+      price: "299"
+    - description: Get your business off Etsy or eBay and save on fees!
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - Multiple Consultations
+        - Unlimited Revisions
+        - Custom Shopify PWA
+      plan: New Storefront
+      price: "499"
+    - description: Need special sauce integrated into your existing site? Have an idea
+        that needs deployment online?
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '??'
+        - Multiple Consultations
+        - Unlimited Revisions
+        - Custom PWA
+        - AWS backend
+      plan: Custom Software
+      price: TBD
 ---
