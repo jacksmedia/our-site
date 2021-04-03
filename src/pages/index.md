@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Amazing Websites, DIY & Freelance
+title: Download Your Brand WIthout App Stores
 image: /img/poconos.jpg
 heading: We Can Help You
-subheading: Expert Guides and Expert Designers
+subheading: Make Visitors into Repeat Customers
 mainpitch:
   title: The Internet In 2021 Is A Wild Place
   description: Jacks Media designs PWAs -Progressive Web Apps- and documents the
