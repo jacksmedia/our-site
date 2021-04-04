@@ -3,7 +3,7 @@ heading: Get Your Brand On Their Phones
 path: /products
 templateKey: product-page
 title: Websites, Downloaded
-image: /img/jumbotron.jpg
+image: /img/nebuta-matsuri.jpg
 description: "Leaving a website just to go to an App Store is a chore... "
 intro:
   blurbs:
@@ -28,14 +28,14 @@ main:
     has your current info and pics. We love working with small businesses and
     nonprofits, and offer unlimited creative revisions to content and styling.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: top100crypto.info
+    image: /img/top100.png
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: MVA Emerging Leader Retreat app
+    image: /img/mva.png
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: Stardewdex.com
+    image: /img/sdd.png
 testimonials:
   - author: Lydia, Blackwood Housekeeping
     quote: Jacks gave us a great site at a great value, amazing work!
