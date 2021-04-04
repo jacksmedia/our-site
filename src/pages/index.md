@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
-title: Download Your Brand WIthout App Stores
-image: /img/poconos.jpg
+title: Download Your Brand Without App Stores
+image: /img/fuji-at-dawn.jpg
 heading: We Can Help You
 subheading: Make Visitors into Repeat Customers
 mainpitch:
@@ -23,7 +23,8 @@ intro:
         firing up your imagination! We'll guide you through all the major steps
         from setting things up to shipping things out.
     - image: /img/meeting-space.png
-      text: Consult with us if you'd like customized solutions!
+      text: Consult with us if you'd like customized solutions! Our team has some
+        packages ready for you to explore ...
   heading: What We're Offering
   description: Jacks Media builds apps that evade app stores, using open source tech.
 main:
