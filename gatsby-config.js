@@ -5,6 +5,18 @@ module.exports = {
       'This repo contains a business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
   },
   plugins: [
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: `JacksMedia`,
+        short_name: `JacksMedia`,
+        start_url: `/`,
+        background_color: `#0005FF`,
+        theme_color: `#DD3C00`,
+        display: `standalone`,
+        icon: `src/img/our-icon.png`,
+      },
+    },
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
     {
